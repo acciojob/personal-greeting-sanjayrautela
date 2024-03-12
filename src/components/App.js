@@ -1,5 +1,5 @@
 
-import React from "react";
+import React,{Component} from "react";
 import './../styles/App.css';
 import Greeting from "./greeting";
 
